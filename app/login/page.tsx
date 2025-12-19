@@ -38,7 +38,7 @@ export default function LoginPage() {
       <Card className="w-full max-w-md shadow-xl">
         <CardHeader className="space-y-4 text-center">
           <div className="mx-auto  w-80 h-30 rounded-full flex items-center justify-center">
-            <Image src="/flamnow-logo.png" alt="Logo" width={180} height={180}  />
+            <Image src="/flamnow-logo.png" alt="Logo" width={100} height={100}  />
           </div>
           <CardTitle className="text-3xl font-bold">Money Management</CardTitle>
         </CardHeader>
